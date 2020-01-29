@@ -1,5 +1,5 @@
 /* This file is automatically rebuilt by the Cesium build process. */
-define(['exports', './defined-26bd4a03', './Check-da037458', './Math-fa6e45cb', './Cartesian2-2a723276', './Transforms-63627dde', './GeometryAttribute-39cf8fbf'], function (exports, defined, Check, _Math, Cartesian2, Transforms, GeometryAttribute) { 'use strict';
+define(['exports', './defined-26bd4a03', './Check-da037458', './Math-fa6e45cb', './Cartesian2-2a723276', './Transforms-2d051a04', './GeometryAttribute-27b02fa1'], function (exports, defined, Check, _Math, Cartesian2, Transforms, GeometryAttribute) { 'use strict';
 
     var cos = Math.cos;
         var sin = Math.sin;

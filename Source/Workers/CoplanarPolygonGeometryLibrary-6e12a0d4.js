@@ -1,5 +1,5 @@
 /* This file is automatically rebuilt by the Cesium build process. */
-define(['exports', './Check-da037458', './Cartesian2-2a723276', './Transforms-63627dde', './OrientedBoundingBox-3b0327a8'], function (exports, Check, Cartesian2, Transforms, OrientedBoundingBox) { 'use strict';
+define(['exports', './Check-da037458', './Cartesian2-2a723276', './Transforms-2d051a04', './OrientedBoundingBox-fff00932'], function (exports, Check, Cartesian2, Transforms, OrientedBoundingBox) { 'use strict';
 
     /**
          * @private

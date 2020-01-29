@@ -1,5 +1,5 @@
 /* This file is automatically rebuilt by the Cesium build process. */
-define(['exports', './defined-26bd4a03', './Check-da037458', './defaultValue-f2e68450', './Cartesian2-2a723276', './defineProperties-6f7a50f2', './Transforms-63627dde', './ComponentDatatype-69643096', './GeometryAttribute-39cf8fbf', './GeometryAttributes-eecc9f43', './GeometryPipeline-fb57da21', './IndexDatatype-3de60176', './WebMercatorProjection-f2dc467d'], function (exports, defined, Check, defaultValue, Cartesian2, defineProperties, Transforms, ComponentDatatype, GeometryAttribute, GeometryAttributes, GeometryPipeline, IndexDatatype, WebMercatorProjection) { 'use strict';
+define(['exports', './defined-26bd4a03', './Check-da037458', './defaultValue-f2e68450', './Cartesian2-2a723276', './defineProperties-6f7a50f2', './Transforms-2d051a04', './ComponentDatatype-69643096', './GeometryAttribute-27b02fa1', './GeometryAttributes-eecc9f43', './GeometryPipeline-2328a924', './IndexDatatype-3de60176', './WebMercatorProjection-f2dc467d'], function (exports, defined, Check, defaultValue, Cartesian2, defineProperties, Transforms, ComponentDatatype, GeometryAttribute, GeometryAttributes, GeometryPipeline, IndexDatatype, WebMercatorProjection) { 'use strict';
 
     /**
          * Value and type information for per-instance geometry attribute that determines the geometry instance offset

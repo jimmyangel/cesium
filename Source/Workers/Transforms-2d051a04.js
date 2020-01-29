@@ -13581,15 +13581,10 @@ define(['exports', './defined-26bd4a03', './Check-da037458', './freezeObject-2d8
         }
 
         function loadWithHttpRequest(url, responseType, method, data, headers, deferred, overrideMimeType) {
-
-            // Specifically use the Node version of require to avoid conflicts with the global
-            // require defined in the built version of Cesium.
-            var nodeRequire = global.require ? global.require : require; // eslint-disable-line
-
             // Note: only the 'json' and 'text' responseTypes transforms the loaded buffer
-            var URL = nodeRequire('url').parse(url);
-            var http = URL.protocol === 'https:' ? nodeRequire('https') : nodeRequire('http');
-            var zlib = nodeRequire('zlib');
+            var URL = require('url').parse(url);
+            var http = URL.protocol === 'https:' ? require('https') : require('http');
+            var zlib = require('zlib');
             var options = {
                 protocol : URL.protocol,
                 hostname : URL.hostname,

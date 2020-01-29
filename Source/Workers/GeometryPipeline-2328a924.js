@@ -1,5 +1,5 @@
 /* This file is automatically rebuilt by the Cesium build process. */
-define(['exports', './defined-26bd4a03', './Check-da037458', './defaultValue-f2e68450', './Math-fa6e45cb', './Cartesian2-2a723276', './Transforms-63627dde', './ComponentDatatype-69643096', './GeometryAttribute-39cf8fbf', './AttributeCompression-87682214', './EncodedCartesian3-8b2b90d0', './IndexDatatype-3de60176', './IntersectionTests-fe7a5824', './Plane-4aa05fa3'], function (exports, defined, Check, defaultValue, _Math, Cartesian2, Transforms, ComponentDatatype, GeometryAttribute, AttributeCompression, EncodedCartesian3, IndexDatatype, IntersectionTests, Plane) { 'use strict';
+define(['exports', './defined-26bd4a03', './Check-da037458', './defaultValue-f2e68450', './Math-fa6e45cb', './Cartesian2-2a723276', './Transforms-2d051a04', './ComponentDatatype-69643096', './GeometryAttribute-27b02fa1', './AttributeCompression-87682214', './EncodedCartesian3-8b2b90d0', './IndexDatatype-3de60176', './IntersectionTests-8d42294d', './Plane-0d631df3'], function (exports, defined, Check, defaultValue, _Math, Cartesian2, Transforms, ComponentDatatype, GeometryAttribute, AttributeCompression, EncodedCartesian3, IndexDatatype, IntersectionTests, Plane) { 'use strict';
 
     var scratchCartesian1 = new Cartesian2.Cartesian3();
         var scratchCartesian2 = new Cartesian2.Cartesian3();

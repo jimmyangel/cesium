@@ -1,5 +1,5 @@
 /* This file is automatically rebuilt by the Cesium build process. */
-define(['exports', './defined-26bd4a03', './Check-da037458', './freezeObject-2d83f591', './defaultValue-f2e68450', './Math-fa6e45cb', './Cartesian2-2a723276', './WebGLConstants-497deb20', './ComponentDatatype-69643096', './GeometryAttribute-39cf8fbf', './EllipsoidRhumbLine-c6cdbfd3'], function (exports, defined, Check, freezeObject, defaultValue, _Math, Cartesian2, WebGLConstants, ComponentDatatype, GeometryAttribute, EllipsoidRhumbLine) { 'use strict';
+define(['exports', './defined-26bd4a03', './Check-da037458', './freezeObject-2d83f591', './defaultValue-f2e68450', './Math-fa6e45cb', './Cartesian2-2a723276', './WebGLConstants-497deb20', './ComponentDatatype-69643096', './GeometryAttribute-27b02fa1', './EllipsoidRhumbLine-c6cdbfd3'], function (exports, defined, Check, freezeObject, defaultValue, _Math, Cartesian2, WebGLConstants, ComponentDatatype, GeometryAttribute, EllipsoidRhumbLine) { 'use strict';
 
     function earcut(data, holeIndices, dim) {
 

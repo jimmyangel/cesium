@@ -1,5 +1,5 @@
 /* This file is automatically rebuilt by the Cesium build process. */
-define(['exports', './defined-26bd4a03', './Check-da037458', './defaultValue-f2e68450', './Cartesian2-2a723276', './Transforms-63627dde', './ComponentDatatype-69643096', './GeometryAttribute-39cf8fbf', './GeometryAttributes-eecc9f43', './GeometryOffsetAttribute-cb30cd97', './VertexFormat-fbb91dc7'], function (exports, defined, Check, defaultValue, Cartesian2, Transforms, ComponentDatatype, GeometryAttribute, GeometryAttributes, GeometryOffsetAttribute, VertexFormat) { 'use strict';
+define(['exports', './defined-26bd4a03', './Check-da037458', './defaultValue-f2e68450', './Cartesian2-2a723276', './Transforms-2d051a04', './ComponentDatatype-69643096', './GeometryAttribute-27b02fa1', './GeometryAttributes-eecc9f43', './GeometryOffsetAttribute-cb30cd97', './VertexFormat-fbb91dc7'], function (exports, defined, Check, defaultValue, Cartesian2, Transforms, ComponentDatatype, GeometryAttribute, GeometryAttributes, GeometryOffsetAttribute, VertexFormat) { 'use strict';
 
     var diffScratch = new Cartesian2.Cartesian3();
 

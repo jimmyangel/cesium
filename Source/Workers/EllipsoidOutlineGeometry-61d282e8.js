@@ -1,5 +1,5 @@
 /* This file is automatically rebuilt by the Cesium build process. */
-define(['exports', './defined-26bd4a03', './Check-da037458', './defaultValue-f2e68450', './Math-fa6e45cb', './Cartesian2-2a723276', './Transforms-63627dde', './ComponentDatatype-69643096', './GeometryAttribute-39cf8fbf', './GeometryAttributes-eecc9f43', './IndexDatatype-3de60176', './GeometryOffsetAttribute-cb30cd97'], function (exports, defined, Check, defaultValue, _Math, Cartesian2, Transforms, ComponentDatatype, GeometryAttribute, GeometryAttributes, IndexDatatype, GeometryOffsetAttribute) { 'use strict';
+define(['exports', './defined-26bd4a03', './Check-da037458', './defaultValue-f2e68450', './Math-fa6e45cb', './Cartesian2-2a723276', './Transforms-2d051a04', './ComponentDatatype-69643096', './GeometryAttribute-27b02fa1', './GeometryAttributes-eecc9f43', './IndexDatatype-3de60176', './GeometryOffsetAttribute-cb30cd97'], function (exports, defined, Check, defaultValue, _Math, Cartesian2, Transforms, ComponentDatatype, GeometryAttribute, GeometryAttributes, IndexDatatype, GeometryOffsetAttribute) { 'use strict';
 
     var defaultRadii = new Cartesian2.Cartesian3(1.0, 1.0, 1.0);
         var cos = Math.cos;

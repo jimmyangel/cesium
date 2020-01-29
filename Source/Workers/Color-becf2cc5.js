@@ -1,5 +1,5 @@
 /* This file is automatically rebuilt by the Cesium build process. */
-define(['exports', './defined-26bd4a03', './Check-da037458', './freezeObject-2d83f591', './defaultValue-f2e68450', './Math-fa6e45cb', './Transforms-63627dde'], function (exports, defined, Check, freezeObject, defaultValue, _Math, Transforms) { 'use strict';
+define(['exports', './defined-26bd4a03', './Check-da037458', './freezeObject-2d83f591', './defaultValue-f2e68450', './Math-fa6e45cb', './Transforms-2d051a04'], function (exports, defined, Check, freezeObject, defaultValue, _Math, Transforms) { 'use strict';
 
     function hue2rgb(m1, m2, h) {
             if (h < 0) {

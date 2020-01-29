@@ -1,5 +1,5 @@
 /* This file is automatically rebuilt by the Cesium build process. */
-define(['exports', './defined-26bd4a03', './Math-fa6e45cb', './Cartesian2-2a723276', './Transforms-63627dde', './PolylineVolumeGeometryLibrary-7cc0f1f5', './PolylinePipeline-59fdb458'], function (exports, defined, _Math, Cartesian2, Transforms, PolylineVolumeGeometryLibrary, PolylinePipeline) { 'use strict';
+define(['exports', './defined-26bd4a03', './Math-fa6e45cb', './Cartesian2-2a723276', './Transforms-2d051a04', './PolylineVolumeGeometryLibrary-5b1a660e', './PolylinePipeline-8d6ae3c8'], function (exports, defined, _Math, Cartesian2, Transforms, PolylineVolumeGeometryLibrary, PolylinePipeline) { 'use strict';
 
     /**
          * @private

@@ -1,5 +1,5 @@
 /* This file is automatically rebuilt by the Cesium build process. */
-define(['exports', './defined-26bd4a03', './Math-fa6e45cb', './Cartesian2-2a723276', './EllipsoidTangentPlane-daa8c713', './PolygonPipeline-6930da14', './PolylinePipeline-59fdb458'], function (exports, defined, _Math, Cartesian2, EllipsoidTangentPlane, PolygonPipeline, PolylinePipeline) { 'use strict';
+define(['exports', './defined-26bd4a03', './Math-fa6e45cb', './Cartesian2-2a723276', './EllipsoidTangentPlane-dce1f621', './PolygonPipeline-a51f4185', './PolylinePipeline-8d6ae3c8'], function (exports, defined, _Math, Cartesian2, EllipsoidTangentPlane, PolygonPipeline, PolylinePipeline) { 'use strict';
 
     /**
          * private

@@ -1,5 +1,5 @@
 /* This file is automatically rebuilt by the Cesium build process. */
-define(['exports', './Math-fa6e45cb', './Cartesian2-2a723276', './Transforms-63627dde'], function (exports, _Math, Cartesian2, Transforms) { 'use strict';
+define(['exports', './Math-fa6e45cb', './Cartesian2-2a723276', './Transforms-2d051a04'], function (exports, _Math, Cartesian2, Transforms) { 'use strict';
 
     var EllipseGeometryLibrary = {};
 

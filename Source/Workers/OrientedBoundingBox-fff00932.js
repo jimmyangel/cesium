@@ -1,5 +1,5 @@
 /* This file is automatically rebuilt by the Cesium build process. */
-define(['exports', './defined-26bd4a03', './Check-da037458', './defaultValue-f2e68450', './Math-fa6e45cb', './Cartesian2-2a723276', './Transforms-63627dde', './Plane-4aa05fa3', './EllipsoidTangentPlane-daa8c713'], function (exports, defined, Check, defaultValue, _Math, Cartesian2, Transforms, Plane, EllipsoidTangentPlane) { 'use strict';
+define(['exports', './defined-26bd4a03', './Check-da037458', './defaultValue-f2e68450', './Math-fa6e45cb', './Cartesian2-2a723276', './Transforms-2d051a04', './Plane-0d631df3', './EllipsoidTangentPlane-dce1f621'], function (exports, defined, Check, defaultValue, _Math, Cartesian2, Transforms, Plane, EllipsoidTangentPlane) { 'use strict';
 
     /**
          * Creates an instance of an OrientedBoundingBox.

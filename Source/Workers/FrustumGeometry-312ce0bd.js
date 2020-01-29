@@ -1,5 +1,5 @@
 /* This file is automatically rebuilt by the Cesium build process. */
-define(['exports', './defined-26bd4a03', './Check-da037458', './defaultValue-f2e68450', './Math-fa6e45cb', './Cartesian2-2a723276', './defineProperties-6f7a50f2', './Transforms-63627dde', './ComponentDatatype-69643096', './GeometryAttribute-39cf8fbf', './GeometryAttributes-eecc9f43', './Plane-4aa05fa3', './VertexFormat-fbb91dc7'], function (exports, defined, Check, defaultValue, _Math, Cartesian2, defineProperties, Transforms, ComponentDatatype, GeometryAttribute, GeometryAttributes, Plane, VertexFormat) { 'use strict';
+define(['exports', './defined-26bd4a03', './Check-da037458', './defaultValue-f2e68450', './Math-fa6e45cb', './Cartesian2-2a723276', './defineProperties-6f7a50f2', './Transforms-2d051a04', './ComponentDatatype-69643096', './GeometryAttribute-27b02fa1', './GeometryAttributes-eecc9f43', './Plane-0d631df3', './VertexFormat-fbb91dc7'], function (exports, defined, Check, defaultValue, _Math, Cartesian2, defineProperties, Transforms, ComponentDatatype, GeometryAttribute, GeometryAttributes, Plane, VertexFormat) { 'use strict';
 
     /**
          * The culling volume defined by planes.

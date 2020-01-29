@@ -1,5 +1,5 @@
 /* This file is automatically rebuilt by the Cesium build process. */
-define(['exports', './defined-26bd4a03', './Check-da037458', './defaultValue-f2e68450', './Transforms-63627dde'], function (exports, defined, Check, defaultValue, Transforms) { 'use strict';
+define(['exports', './defined-26bd4a03', './Check-da037458', './defaultValue-f2e68450', './Transforms-2d051a04'], function (exports, defined, Check, defaultValue, Transforms) { 'use strict';
 
     /**
          * Geometry instancing allows one {@link Geometry} object to be positions in several

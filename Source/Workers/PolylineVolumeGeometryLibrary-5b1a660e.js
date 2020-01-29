@@ -1,5 +1,5 @@
 /* This file is automatically rebuilt by the Cesium build process. */
-define(['exports', './freezeObject-2d83f591', './Math-fa6e45cb', './Cartesian2-2a723276', './Transforms-63627dde', './EllipsoidTangentPlane-daa8c713', './PolylinePipeline-59fdb458'], function (exports, freezeObject, _Math, Cartesian2, Transforms, EllipsoidTangentPlane, PolylinePipeline) { 'use strict';
+define(['exports', './freezeObject-2d83f591', './Math-fa6e45cb', './Cartesian2-2a723276', './Transforms-2d051a04', './EllipsoidTangentPlane-dce1f621', './PolylinePipeline-8d6ae3c8'], function (exports, freezeObject, _Math, Cartesian2, Transforms, EllipsoidTangentPlane, PolylinePipeline) { 'use strict';
 
     /**
          * Style options for corners.

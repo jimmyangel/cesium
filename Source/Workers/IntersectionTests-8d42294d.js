@@ -1,5 +1,5 @@
 /* This file is automatically rebuilt by the Cesium build process. */
-define(['exports', './defined-26bd4a03', './Check-da037458', './defaultValue-f2e68450', './Math-fa6e45cb', './Cartesian2-2a723276', './Transforms-63627dde'], function (exports, defined, Check, defaultValue, _Math, Cartesian2, Transforms) { 'use strict';
+define(['exports', './defined-26bd4a03', './Check-da037458', './defaultValue-f2e68450', './Math-fa6e45cb', './Cartesian2-2a723276', './Transforms-2d051a04'], function (exports, defined, Check, defaultValue, _Math, Cartesian2, Transforms) { 'use strict';
 
     /**
          * Defines functions for 2nd order polynomial functions of one variable with only real coefficients.
